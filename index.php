@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> Sufara i tedžvid - zbirna tabela </title>
+        <title> Sufara i tedžvid osnove - zbirna tabela </title>
         <link rel="stylesheet" href="src/assets/style/style.css">
     </head>
 
