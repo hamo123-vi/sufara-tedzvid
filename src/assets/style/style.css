@@ -29,7 +29,7 @@ li {
     cursor: pointer;
 }
 
-a {
+a, .link {
     color: brown;
     text-decoration: none;
 }
@@ -51,7 +51,7 @@ main {
 }
 
 #tt {
-    height: 2400px
+    height: 2400px;
 }
 
 img {

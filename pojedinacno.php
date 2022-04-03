@@ -17,5 +17,6 @@
                 <img id="izuzeci" class="pojedinacne" src="src/assets/tedzvid2.jpg" alt="Tedžvid 2" >
             </div>
         </main>
+        <script type="text/javascript" src="src/assets/js/activeToggler.js"></script>
     </body>
 </html>
