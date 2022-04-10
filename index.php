@@ -10,7 +10,7 @@
         <?php require_once("src/templates/header.php") ?>
         <main>
             <div>
-                <img src="src/assets/zbirnatabela.jpg" width="100%" alt="Zbirna tabela" >
+                <img alt="Zbirna tabela" src="src/assets/zbirnatabela.jpg">
             </div>
         </main>
     </body>
